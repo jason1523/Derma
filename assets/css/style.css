@@ -1,0 +1,10 @@
+nav .navbar{
+    background: red !important;
+}
+#jboy .navbar-nav .nav-item:hover{
+    background: #01013e;
+}
+#jboy .navbar-nav .nav-item a:hover{
+    color: #fff;
+    p2
+}
